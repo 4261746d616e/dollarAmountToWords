@@ -1,6 +1,6 @@
 # Written by Achala Samarasekara 12/09/2021
 # My first proper python program!
-
+# Enter a $ and Cents amount up to 9999.99 and this program will convert it to a string of words.
 
 def numberToWords(value):
     # Check value is less than 10,000 as that is all the logic operates up to.
